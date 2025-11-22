@@ -14,7 +14,17 @@
   <img src="https://img.shields.io/badge/Status-In%20Development-green?style=for-the-badge" alt="Status">
 
 </div>
+# 🚀 BACKSTEP 프로젝트
 
+청년 경력 성장 플랫폼 **BACKSTEP**의 공식 GitHub Organization입니다.
+
+## 📂 Repositories
+
+- 🎨 프론트엔드  
+  → [BACKSTEP_FE](https://github.com/X-THON-2025-Team11-BACKSTEP/BACKSTEP_FE)
+
+- ⚙️ 백엔드  
+  → [BACKSTEP_BE](https://github.com/X-THON-2025-Team11-BACKSTEP/BACKSTEP_BE)
 <br>
 
 ## 🏃‍♂️ Team. 뒷걸음 (Backstep)
